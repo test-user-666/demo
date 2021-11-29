@@ -35,7 +35,8 @@
 ],
       "nextData" : {
       "nextUrl": "https://my-json-server.typicode.com/test-user-666/data2"
-      }
+      },
+      "totalData": 8
 },
 "data2": {
       "root":[ 
