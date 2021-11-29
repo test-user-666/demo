@@ -1,6 +1,6 @@
 {
 "data":{
-      "paging" : {
+      "nextData" : {
       "nextUrl": "https://my-json-server.typicode.com/test-user-666/data2"
       },
       "root":[ 
@@ -39,7 +39,7 @@
       ]
 },
 "data2": {
-      "paging" : {
+      "nextData" : {
       },
       "root":[ 
       {
